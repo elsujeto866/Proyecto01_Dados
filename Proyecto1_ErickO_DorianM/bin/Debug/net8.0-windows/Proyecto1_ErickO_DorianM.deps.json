@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto1_ErickO_DorianM/1.0.0": {
+        "dependencies": {
+          "BibliotecaDados": "1.0.0",
+          "Cliente": "1.0.0",
+          "Servidor": "1.0.0"
+        },
+        "runtime": {
+          "Proyecto1_ErickO_DorianM.dll": {}
+        }
+      },
+      "BibliotecaDados/1.0.0": {
+        "runtime": {
+          "BibliotecaDados.dll": {}
+        }
+      },
+      "Cliente/1.0.0": {
+        "dependencies": {
+          "BibliotecaDados": "1.0.0"
+        },
+        "runtime": {
+          "Cliente.dll": {}
+        }
+      },
+      "Servidor/1.0.0": {
+        "dependencies": {
+          "BibliotecaDados": "1.0.0"
+        },
+        "runtime": {
+          "Servidor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto1_ErickO_DorianM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Servidor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cliente/1.0.0": {
+        "dependencies": {
+          "BibliotecaDados": "1.0.0"
+        },
+        "runtime": {
+          "Cliente.dll": {}
+        }
+      },
+      "BibliotecaDados/1.0.0": {
+        "runtime": {
+          "BibliotecaDados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

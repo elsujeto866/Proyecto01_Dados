@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "BibliotecaDados/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BibliotecaDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaDados.dll": {}
+        }
+      },
+      "Cliente/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BibliotecaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Cliente.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Cliente.dll": {}
+        }
+      },
+      "Servidor/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "BibliotecaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Servidor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Servidor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaDados/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaDados/BibliotecaDados.csproj",
+      "msbuildProject": "../BibliotecaDados/BibliotecaDados.csproj"
+    },
+    "Cliente/1.0.0": {
+      "type": "project",
+      "path": "../Cliente/Cliente.csproj",
+      "msbuildProject": "../Cliente/Cliente.csproj"
+    },
+    "Servidor/1.0.0": {
+      "type": "project",
+      "path": "../Servidor/Servidor.csproj",
+      "msbuildProject": "../Servidor/Servidor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "BibliotecaDados >= 1.0.0",
+      "Cliente >= 1.0.0",
+      "Servidor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SAUL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
+      "projectName": "Proyecto1_ErickO_DorianM",
+      "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
+      "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj": {
+              "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj"
+            },
+            "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj": {
+              "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj"
+            },
+            "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj": {
+              "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
