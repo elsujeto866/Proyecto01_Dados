@@ -31,6 +31,7 @@ C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\BibliotecaDados\obj\D
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\refint\BibliotecaDados.dll
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.pdb
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\ref\BibliotecaDados.dll
+<<<<<<< HEAD
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.deps.json
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.dll
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.pdb
@@ -43,3 +44,17 @@ C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\refint\BibliotecaDados.dll
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.pdb
 C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\BibliotecaDados\obj\Debug\net8.0\ref\BibliotecaDados.dll
+=======
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.deps.json
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.dll
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\bin\Debug\net8.0\BibliotecaDados.pdb
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.AssemblyInfoInputs.cache
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.AssemblyInfo.cs
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.sourcelink.json
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.dll
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\refint\BibliotecaDados.dll
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\BibliotecaDados.pdb
+C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\BibliotecaDados\obj\Debug\net8.0\ref\BibliotecaDados.dll
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753

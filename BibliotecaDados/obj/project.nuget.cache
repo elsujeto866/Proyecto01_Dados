@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "EvFQkQAYINbKLieinM36A0jac2tsQUXROYkl7gFFme4eME4LclP08f3G3nwV3NQdYgWyRom9pgkAV2D3ZkSoPg==",
+=======
+  "dgSpecHash": "xQ2A4zOZXKw1OoU4GdrDhiI0wDJ0EGdVF7+WeenPyHtYby8DqcQT0gO8uIQ2Aytza86cegmetdP054fdczuIJw==",
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753
   "success": true,
-  "projectFilePath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj",
+  "projectFilePath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
