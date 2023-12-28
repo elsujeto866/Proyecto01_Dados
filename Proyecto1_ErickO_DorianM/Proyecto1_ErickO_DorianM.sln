@@ -12,7 +12,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaDados", "..\Bibli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servidor", "..\Servidor\Servidor.csproj", "{C9FD9977-183F-40CE-8766-59155E773727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cliente", "..\Cliente\Cliente.csproj", "{6DE35271-3E58-40A1-8D96-7316F16425DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cliente", "..\Cliente\Cliente.csproj", "{6DE35271-3E58-40A1-8D96-7316F16425DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionBaseDatos", "..\ConexionBaseDatos\ConexionBaseDatos.csproj", "{F2D0FD9B-2D0D-47DD-BB4A-9BECF7891046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,10 @@ Global
 		{6DE35271-3E58-40A1-8D96-7316F16425DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE35271-3E58-40A1-8D96-7316F16425DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE35271-3E58-40A1-8D96-7316F16425DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2D0FD9B-2D0D-47DD-BB4A-9BECF7891046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D0FD9B-2D0D-47DD-BB4A-9BECF7891046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2D0FD9B-2D0D-47DD-BB4A-9BECF7891046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2D0FD9B-2D0D-47DD-BB4A-9BECF7891046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

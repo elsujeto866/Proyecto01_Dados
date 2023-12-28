@@ -26,7 +26,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj": {
+                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -114,6 +118,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj",
+        "projectName": "ConexionBaseDatos",
+        "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     },
     "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj": {

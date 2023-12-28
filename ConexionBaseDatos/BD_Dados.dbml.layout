@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="BD_Dados">
+  <DataContextMoniker Name="/BD_DadosDataContext" />
+  <nestedChildShapes>
+    <classShape Id="4d0c8869-ee70-4d55-85fe-381041727a09" absoluteBounds="6.25, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/BD_DadosDataContext/Dado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f28704ba-3baf-48fc-aabb-8826bca7587e" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d23bc5c-63d2-45ab-be48-645c7366b9c6" absoluteBounds="3.5, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BD_DadosDataContext/Lanzamiento" />
+      <nestedChildShapes>
+        <elementListCompartment Id="66100533-e397-45d7-8c5a-813993c5f0c3" absoluteBounds="3.515, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9ef68f4c-7df7-4c0a-bf5d-47065f41e157" absoluteBounds="3.5, 4.25, 2, 1.1939925130208326">
+      <DataClassMoniker Name="/BD_DadosDataContext/TipoDado" />
+      <nestedChildShapes>
+        <elementListCompartment Id="01aeee69-7ddf-4a2f-babe-659e38f7a5ed" absoluteBounds="3.515, 4.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f99ec97a-5097-4b54-89ed-82d63166756a" absoluteBounds="0.75, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/BD_DadosDataContext/Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e2594cfc-8f47-49e7-b371-9e1c1062902e" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.94314697265625); (6.25 : 1.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BD_DadosDataContext/Lanzamiento/Lanzamiento_Dado" />
+      <nodes>
+        <classShapeMoniker Id="3d23bc5c-63d2-45ab-be48-645c7366b9c6" />
+        <classShapeMoniker Id="4d0c8869-ee70-4d55-85fe-381041727a09" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.84699625651042); (7.25 : 4.84699625651042); (7.25 : 2.8381982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BD_DadosDataContext/TipoDado/TipoDado_Dado" />
+      <nodes>
+        <classShapeMoniker Id="9ef68f4c-7df7-4c0a-bf5d-47065f41e157" />
+        <classShapeMoniker Id="4d0c8869-ee70-4d55-85fe-381041727a09" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.94314697265625); (3.5 : 1.94314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/BD_DadosDataContext/Usuario/Usuario_Lanzamiento" />
+      <nodes>
+        <classShapeMoniker Id="f99ec97a-5097-4b54-89ed-82d63166756a" />
+        <classShapeMoniker Id="3d23bc5c-63d2-45ab-be48-645c7366b9c6" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

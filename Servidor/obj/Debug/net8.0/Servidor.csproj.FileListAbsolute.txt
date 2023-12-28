@@ -52,3 +52,22 @@ C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Servidor\obj\Debug\ne
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.pdb
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\ref\Servidor.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\BibliotecaDados.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\bin\Debug\net8.0\BibliotecaDados.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.sourcelink.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.csproj.CopyComplete
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Servidor\obj\Debug\net8.0\ref\Servidor.dll

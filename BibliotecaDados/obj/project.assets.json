@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ConexionBaseDatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ConexionBaseDatos/1.0.0": {
+      "type": "project",
+      "path": "../ConexionBaseDatos/ConexionBaseDatos.csproj",
+      "msbuildProject": "../ConexionBaseDatos/ConexionBaseDatos.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ConexionBaseDatos >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\SAUL\\.nuget\\packages\\": {}
@@ -32,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj": {
+              "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\ConexionBaseDatos\\ConexionBaseDatos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

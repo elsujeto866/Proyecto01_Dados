@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BD_Dados" Class="BD_DadosDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=BD_Dados;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="ConexionBaseDatos.Properties.Settings" SettingsPropertyName="BD_DadosConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Dado" Member="Dado">
+    <Type Name="Dado">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="numeroCaras" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="caraObtenida" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="lanzamientoId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="tipoDadoId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Lanzamiento_Dado" Member="Lanzamiento" ThisKey="lanzamientoId" OtherKey="id" Type="Lanzamiento" IsForeignKey="true" />
+      <Association Name="TipoDado_Dado" Member="TipoDado" ThisKey="tipoDadoId" OtherKey="id" Type="TipoDado" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lanzamiento" Member="Lanzamiento">
+    <Type Name="Lanzamiento">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="fechaLanzamiento" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="usuarioId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Lanzamiento_Dado" Member="Dado" ThisKey="id" OtherKey="lanzamientoId" Type="Dado" />
+      <Association Name="Usuario_Lanzamiento" Member="Usuario" ThisKey="usuarioId" OtherKey="id" Type="Usuario" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TipoDado" Member="TipoDado">
+    <Type Name="TipoDado">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="TipoDado_Dado" Member="Dado" ThisKey="id" OtherKey="tipoDadoId" Type="Dado" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="puntaje" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Usuario_Lanzamiento" Member="Lanzamiento" ThisKey="id" OtherKey="usuarioId" Type="Lanzamiento" />
+    </Type>
+  </Table>
+</Database>

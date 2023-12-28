@@ -10,6 +10,7 @@
         "dependencies": {
           "BibliotecaDados": "1.0.0",
           "Cliente": "1.0.0",
+          "ConexionBaseDatos": "1.0.0",
           "Servidor": "1.0.0"
         },
         "runtime": {
@@ -27,6 +28,11 @@
         },
         "runtime": {
           "Cliente.dll": {}
+        }
+      },
+      "ConexionBaseDatos/1.0.0": {
+        "runtime": {
+          "ConexionBaseDatos.dll": {}
         }
       },
       "Servidor/1.0.0": {
@@ -51,6 +57,11 @@
       "sha512": ""
     },
     "Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConexionBaseDatos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
