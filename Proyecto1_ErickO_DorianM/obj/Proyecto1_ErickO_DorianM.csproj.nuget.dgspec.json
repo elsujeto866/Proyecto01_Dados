@@ -1,27 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj": {}
+    "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj": {
+    "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj",
         "projectName": "BibliotecaDados",
-        "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj",
-        "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -58,31 +63,36 @@
         }
       }
     },
-    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj": {
+    "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj",
         "projectName": "Cliente",
-        "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj",
-        "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj": {
-                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj"
+              "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj": {
+                "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj"
               }
             }
           }
@@ -116,37 +126,42 @@
         }
       }
     },
-    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj": {
+    "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
         "projectName": "Proyecto1_ErickO_DorianM",
-        "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
-        "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Proyecto1_ErickO_DorianM\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj": {
-                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj"
+              "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj": {
+                "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj"
               },
-              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj": {
-                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Cliente\\Cliente.csproj"
+              "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj": {
+                "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj"
               },
-              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj": {
-                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj"
+              "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj": {
+                "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj"
               }
             }
           }
@@ -183,31 +198,36 @@
         }
       }
     },
-    "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj": {
+    "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj",
         "projectName": "Servidor",
-        "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\Servidor.csproj",
-        "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\Servidor\\obj\\",
+        "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj",
+        "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj": {
-                "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj"
+              "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj": {
+                "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj"
               }
             }
           }

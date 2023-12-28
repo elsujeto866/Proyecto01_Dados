@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using BibliotecaDados;
 using System.IO;
 using System.Threading;
-using BibliotecaDados;
+
 namespace Servidor
 {
     public class ComunicacionCliente
@@ -92,7 +92,7 @@ namespace Servidor
             {
                 string RESP_DADO = lector.ReadLine();
                 datos = RESP_DADO.Split(':');
-                if (cliente.Obtenerpuntaje() == 0)
+                if (cliente.Obtenerpuntaje()==0 )
                 {
 
 

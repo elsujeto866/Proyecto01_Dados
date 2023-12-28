@@ -8,26 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\SAUL\\.nuget\\packages\\": {}
+    "C:\\Users\\sasha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj",
+      "projectUniqueName": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj",
       "projectName": "BibliotecaDados",
-      "projectPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\BibliotecaDados.csproj",
-      "packagesPath": "C:\\Users\\SAUL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SAUL\\OneDrive\\EPN\\SEMESTRES-2023B\\Aplicaciones Distribuidas\\Proyecto01\\Proyecto1ErickO_DorianM\\BibliotecaDados\\obj\\",
+      "projectPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\BibliotecaDados.csproj",
+      "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\BibliotecaDados\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\SAUL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sasha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {

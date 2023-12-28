@@ -15,7 +15,7 @@ namespace BibliotecaDados
         public int puntaje;
         public Usuario(string nombre) {
             DateTime fechaActual = DateTime.Now;
-            id = fechaActual.Year+"000"+id_num;
+            id = fechaActual.Year+fechaActual.Month+fechaActual.Day+""+id_num;
             id_num++;
             this.nombre = nombre;  
         }

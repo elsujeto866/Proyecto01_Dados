@@ -31,8 +31,7 @@ public class Dado
         return cara_obtenida;
     }
     public int getCara()
-    {
-        
+    { 
         return cara_obtenida;
     }
     public override string ToString()
