@@ -92,7 +92,7 @@ namespace Servidor
             {
                 string RESP_DADO = lector.ReadLine();
                 datos = RESP_DADO.Split(':');
-                if (cliente.Obtenerpuntaje()==0 )
+                if (cliente.Obtenerpuntaje()!=null )
                 {
 
 

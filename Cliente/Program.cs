@@ -61,7 +61,7 @@ internal class Program
         //Una vez que se ha ingresado un nombre de usuario no repetido
         nombre = com.Datos[2]; //Se guarda el nombre del usuario
                                //Se imprime un mensaje de bienvenida
-        Console.WriteLine("Hola " + nombre + ", bienvenido al contador de cartas de TrampaForEver.co!!");
+        Console.WriteLine("Hola " + nombre + ", bienvenido al juego de dados  Game.co!!");
         id = com.Datos[1]; //Se guarda el ID del usuario
         Console.WriteLine("Tu ID de cliente es: " + id); //Se imprime el ID del usuario
         EnviarDado(com); //LLamamos a la función EnviarCarta()
@@ -118,7 +118,7 @@ internal class Program
             }
             Console.WriteLine(d.ToString()); //Imprimos la carta que se ha escogido
             //Datos que se van a enviar al servidor
-            string datos = d.ToString() + ":" + d.getCara();
+            string datos = d.ToString + "  puntaje :" + d.getCara();
 
             try
             {
