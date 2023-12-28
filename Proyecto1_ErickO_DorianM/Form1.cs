@@ -2,6 +2,7 @@
 using BibliotecaDados;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 using System.Net;
+using ConexionBaseDatos;
 namespace Proyecto1_ErickO_DorianM
 {
     public partial class FormPaginaJuego : Form
@@ -11,18 +12,22 @@ namespace Proyecto1_ErickO_DorianM
         string nombre = ""; //variable que almacena el nombre del cliente
         string puntaje = "";  //variable que almacena el puntaje
         string valNombre = ""; //variable para guardar el nombre del cliente
-        Dado d; //variable para almacenar la instancia del dado
+        BibliotecaDados.Dado d; //variable para almacenar la instancia del dado
         IPEndPoint ip; //IPEndPoint para la conexión TCP con el servidor
         ComunicacionServidor com; //variable para instanciar ComunicaciónServidor
 
         public FormPaginaJuego()
         {
             InitializeComponent();
-            listBDados.Items.Add(new Dado(Dados_Enum.normal));
-            listBDados.Items.Add(new Dado(Dados_Enum.octaedro));
-            listBDados.Items.Add(new Dado(Dados_Enum.decaedro));
-            listBDados.Items.Add(new Dado(Dados_Enum.dodecaedro));
+            listBDados.Items.Add(new BibliotecaDados.Dado(Dados_Enum.normal));
+            listBDados.Items.Add(new BibliotecaDados.Dado(Dados_Enum.octaedro));
+            listBDados.Items.Add(new BibliotecaDados.Dado(Dados_Enum.decaedro));
+            listBDados.Items.Add(new BibliotecaDados.Dado(Dados_Enum.dodecaedro));
+        }
 
+        private void FormPaginaJuego_Load(object sender, EventArgs e)
+        {
+            
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -44,5 +49,7 @@ namespace Proyecto1_ErickO_DorianM
         {
 
         }
+
+       
     }
 }

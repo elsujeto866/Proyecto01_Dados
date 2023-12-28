@@ -5,11 +5,23 @@
       "BibliotecaDados/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ConexionBaseDatos": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BibliotecaDados.dll": {}
         },
         "runtime": {
           "bin/placeholder/BibliotecaDados.dll": {}
+        }
+      },
+      "ConexionBaseDatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
         }
       }
     }
@@ -19,6 +31,11 @@
       "type": "project",
       "path": "../BibliotecaDados/BibliotecaDados.csproj",
       "msbuildProject": "../BibliotecaDados/BibliotecaDados.csproj"
+    },
+    "ConexionBaseDatos/1.0.0": {
+      "type": "project",
+      "path": "../ConexionBaseDatos/ConexionBaseDatos.csproj",
+      "msbuildProject": "../ConexionBaseDatos/ConexionBaseDatos.csproj"
     }
   },
   "projectFileDependencyGroups": {

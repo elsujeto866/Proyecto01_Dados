@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "NyownbveSjOmzKW2cVr9MyESZiHBwYfBw6xoOLBEg+I+5ZQ/CX1uI9Vsf3i0qkAz7v0RvQ5v0D52JhvJ1mbjug==",
+=======
   "dgSpecHash": "oF5f339HhLEu6OKCqMzmx7IfFFsRSsj/qMTJhgnK+9YtR8OKZlJkvWqrBQ0/d9Whj+O+CrZ2ZnsEyzehrz3Y8g==",
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753
   "success": true,
   "projectFilePath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Proyecto1_ErickO_DorianM\\Proyecto1_ErickO_DorianM.csproj",
   "expectedPackageFiles": [],

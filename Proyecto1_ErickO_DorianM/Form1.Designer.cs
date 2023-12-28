@@ -49,9 +49,10 @@
             // 
             lblTitulo.AutoSize = true;
             lblTitulo.Font = new Font("Segoe UI", 25F);
-            lblTitulo.Location = new Point(26, 24);
+            lblTitulo.Location = new Point(18, 14);
+            lblTitulo.Margin = new Padding(2, 0, 2, 0);
             lblTitulo.Name = "lblTitulo";
-            lblTitulo.Size = new Size(669, 67);
+            lblTitulo.Size = new Size(455, 46);
             lblTitulo.TabIndex = 0;
             lblTitulo.Text = "Juego Lanzamiento de dados";
             lblTitulo.Click += label1_Click;
@@ -59,69 +60,77 @@
             // lblCreadores
             // 
             lblCreadores.AutoSize = true;
-            lblCreadores.Location = new Point(26, 116);
+            lblCreadores.Location = new Point(18, 70);
+            lblCreadores.Margin = new Padding(2, 0, 2, 0);
             lblCreadores.Name = "lblCreadores";
-            lblCreadores.Size = new Size(358, 25);
+            lblCreadores.Size = new Size(234, 15);
             lblCreadores.TabIndex = 1;
-            lblCreadores.Text = "Desarrollado por : Ortiz Erick y Masa Dorian";
+            lblCreadores.Text = "Desarrollado por : Ortiz Erick y Maza Dorian";
             // 
             // listView1
             // 
-            listView1.Location = new Point(12, 595);
+            listView1.Location = new Point(8, 357);
+            listView1.Margin = new Padding(2);
             listView1.Name = "listView1";
-            listView1.Size = new Size(713, 171);
+            listView1.Size = new Size(500, 104);
             listView1.TabIndex = 2;
             listView1.UseCompatibleStateImageBehavior = false;
             // 
             // lblTituloMovimientos
             // 
             lblTituloMovimientos.AutoSize = true;
-            lblTituloMovimientos.Location = new Point(12, 567);
+            lblTituloMovimientos.Location = new Point(8, 340);
+            lblTituloMovimientos.Margin = new Padding(2, 0, 2, 0);
             lblTituloMovimientos.Name = "lblTituloMovimientos";
-            lblTituloMovimientos.Size = new Size(208, 25);
+            lblTituloMovimientos.Size = new Size(138, 15);
             lblTituloMovimientos.TabIndex = 3;
             lblTituloMovimientos.Text = "Lanzamientos Realizados";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 180);
+            label1.Location = new Point(8, 108);
+            label1.Margin = new Padding(2, 0, 2, 0);
             label1.Name = "label1";
-            label1.Size = new Size(443, 25);
+            label1.Size = new Size(293, 15);
             label1.TabIndex = 4;
             label1.Text = "Escribe Tu nombre(Se usara como usuario para datos):";
             // 
             // txtUsuario
             // 
-            txtUsuario.Location = new Point(478, 177);
+            txtUsuario.Location = new Point(335, 106);
+            txtUsuario.Margin = new Padding(2);
             txtUsuario.Name = "txtUsuario";
-            txtUsuario.Size = new Size(217, 31);
+            txtUsuario.Size = new Size(153, 23);
             txtUsuario.TabIndex = 5;
             // 
             // listBDados
             // 
             listBDados.FormattingEnabled = true;
-            listBDados.ItemHeight = 25;
-            listBDados.Location = new Point(18, 387);
+            listBDados.ItemHeight = 15;
+            listBDados.Location = new Point(13, 232);
+            listBDados.Margin = new Padding(2);
             listBDados.Name = "listBDados";
-            listBDados.Size = new Size(202, 154);
+            listBDados.Size = new Size(143, 94);
             listBDados.TabIndex = 6;
             listBDados.SelectedIndexChanged += listBDados_SelectedIndexChanged;
             // 
             // lblListaDados
             // 
             lblListaDados.AutoSize = true;
-            lblListaDados.Location = new Point(12, 348);
+            lblListaDados.Location = new Point(8, 209);
+            lblListaDados.Margin = new Padding(2, 0, 2, 0);
             lblListaDados.Name = "lblListaDados";
-            lblListaDados.Size = new Size(221, 25);
+            lblListaDados.Size = new Size(145, 15);
             lblListaDados.TabIndex = 7;
             lblListaDados.Text = "Selecciona el tipo de dado";
             // 
             // btnLanzarDado
             // 
-            btnLanzarDado.Location = new Point(454, 261);
+            btnLanzarDado.Location = new Point(318, 157);
+            btnLanzarDado.Margin = new Padding(2);
             btnLanzarDado.Name = "btnLanzarDado";
-            btnLanzarDado.Size = new Size(176, 47);
+            btnLanzarDado.Size = new Size(123, 28);
             btnLanzarDado.TabIndex = 8;
             btnLanzarDado.Text = "Sueltalo";
             btnLanzarDado.UseVisualStyleBackColor = true;
@@ -130,9 +139,10 @@
             // pictureBox1
             // 
             pictureBox1.ImageLocation = "https://www.gifsanimados.org/data/media/710/dado-imagen-animada-0095.gif";
-            pictureBox1.Location = new Point(478, 348);
+            pictureBox1.Location = new Point(335, 209);
+            pictureBox1.Margin = new Padding(2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(120, 150);
+            pictureBox1.Size = new Size(84, 90);
             pictureBox1.TabIndex = 9;
             pictureBox1.TabStop = false;
             pictureBox1.Click += pictureBox1_Click;
@@ -140,36 +150,39 @@
             // lblNumDado
             // 
             lblNumDado.AutoSize = true;
-            lblNumDado.Location = new Point(652, 272);
+            lblNumDado.Location = new Point(456, 163);
+            lblNumDado.Margin = new Padding(2, 0, 2, 0);
             lblNumDado.Name = "lblNumDado";
-            lblNumDado.Size = new Size(33, 25);
+            lblNumDado.Size = new Size(20, 15);
             lblNumDado.TabIndex = 10;
             lblNumDado.Text = "X1";
             // 
             // lblTituloNumDados
             // 
             lblTituloNumDados.AutoSize = true;
-            lblTituloNumDados.Location = new Point(12, 222);
+            lblTituloNumDados.Location = new Point(8, 133);
+            lblTituloNumDados.Margin = new Padding(2, 0, 2, 0);
             lblTituloNumDados.Name = "lblTituloNumDados";
-            lblTituloNumDados.Size = new Size(259, 25);
+            lblTituloNumDados.Size = new Size(171, 15);
             lblTituloNumDados.TabIndex = 11;
             lblTituloNumDados.Text = "Selecciona el numero de dados";
             // 
             // txtNumDados
             // 
-            txtNumDados.Location = new Point(26, 266);
+            txtNumDados.Location = new Point(18, 160);
+            txtNumDados.Margin = new Padding(2);
             txtNumDados.Name = "txtNumDados";
-            txtNumDados.Size = new Size(217, 31);
+            txtNumDados.Size = new Size(153, 23);
             txtNumDados.TabIndex = 12;
             txtNumDados.Text = "1";
             // 
             // FormPaginaJuego
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.None;
-            ClientSize = new Size(737, 778);
+            ClientSize = new Size(516, 449);
             Controls.Add(txtNumDados);
             Controls.Add(lblTituloNumDados);
             Controls.Add(lblNumDado);
@@ -183,8 +196,10 @@
             Controls.Add(listView1);
             Controls.Add(lblCreadores);
             Controls.Add(lblTitulo);
+            Margin = new Padding(2);
             Name = "FormPaginaJuego";
             Text = "Form1";
+            Load += FormPaginaJuego_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();

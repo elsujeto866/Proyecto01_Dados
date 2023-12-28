@@ -5,6 +5,9 @@
       "BibliotecaDados/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ConexionBaseDatos": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/BibliotecaDados.dll": {}
         },
@@ -23,6 +26,15 @@
         },
         "runtime": {
           "bin/placeholder/Cliente.dll": {}
+        }
+      },
+      "ConexionBaseDatos/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ConexionBaseDatos.dll": {}
         }
       },
       "Servidor/1.0.0": {
@@ -50,6 +62,11 @@
       "type": "project",
       "path": "../Cliente/Cliente.csproj",
       "msbuildProject": "../Cliente/Cliente.csproj"
+    },
+    "ConexionBaseDatos/1.0.0": {
+      "type": "project",
+      "path": "../ConexionBaseDatos/ConexionBaseDatos.csproj",
+      "msbuildProject": "../ConexionBaseDatos/ConexionBaseDatos.csproj"
     },
     "Servidor/1.0.0": {
       "type": "project",

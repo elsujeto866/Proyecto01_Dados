@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "Z6qNh7cthhoIaamrWZpwUx/IVNXk+pDCX/GYFGVxTml6zr9Ks83BQDMlMceZcEDzDdmrmmVJ93amSf4MBE5jZA==",
+=======
   "dgSpecHash": "RnA1E9Ib7cQsZxIeEIBcKxuQTUSJ/gHYxIdtO1H0G1EvPjHtlbMQ8ye8qVK3OgUdnT5CiS5+ELa/ydAMFhN0mw==",
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753
   "success": true,
   "projectFilePath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Cliente\\Cliente.csproj",
   "expectedPackageFiles": [],

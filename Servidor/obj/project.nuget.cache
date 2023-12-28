@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "VHHdEVIVRqg4tMhlRM47EJVRHww3RV0YFNwfFiW0ZXm2Z3Xn4WHYyHeMKpyh+xYRioCqZa7jYxOWk3ypV4ClFg==",
+=======
   "dgSpecHash": "TvQVylzmTPjyYsKlb3K/UZa6k030TXo+2Fl5DjD/vmi/YzOHWsDxSS9j1yvrMDC2FOU03PDcosYaP+OethOlOw==",
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753
   "success": true,
   "projectFilePath": "C:\\Users\\sasha\\OneDrive\\Escritorio\\Proyecto01_Dados\\Servidor\\Servidor.csproj",
   "expectedPackageFiles": [],

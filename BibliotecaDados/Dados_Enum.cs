@@ -11,8 +11,6 @@ namespace BibliotecaDados
         normal = 6,
         octaedro=8,
         decaedro = 10,
-        dodecaedro =12,
-
-            
+        dodecaedro =12,    
     }
 }

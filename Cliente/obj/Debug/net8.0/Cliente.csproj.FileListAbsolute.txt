@@ -34,6 +34,27 @@ C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.csproj.CopyComplete
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
 C:\Users\sasha\OneDrive\Escritorio\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\ref\Cliente.dll
+<<<<<<< HEAD
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\Cliente.exe
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\Cliente.deps.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\Cliente.runtimeconfig.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\Cliente.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\Cliente.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\BibliotecaDados.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\bin\Debug\net8.0\BibliotecaDados.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.csproj.AssemblyReference.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfoInputs.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.AssemblyInfo.cs
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.sourcelink.json
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.csproj.CopyComplete
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\refint\Cliente.dll
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.pdb
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
+C:\Users\SAUL\OneDrive\EPN\SEMESTRES-2023B\Aplicaciones Distribuidas\Proyecto01\Proyecto1ErickO_DorianM\Cliente\obj\Debug\net8.0\ref\Cliente.dll
+=======
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\bin\Debug\net8.0\Cliente.exe
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\bin\Debug\net8.0\Cliente.deps.json
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\bin\Debug\net8.0\Cliente.runtimeconfig.json
@@ -53,3 +74,4 @@ C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\obj\Debug\net8.0\ref
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\obj\Debug\net8.0\Cliente.pdb
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\obj\Debug\net8.0\Cliente.genruntimeconfig.cache
 C:\Users\sasha\OneDrive\Escritorio\Proyecto01_Dados\Cliente\obj\Debug\net8.0\ref\Cliente.dll
+>>>>>>> 3401ed54507be754fa40375626ccfe123761c753
